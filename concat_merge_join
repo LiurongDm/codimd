@@ -1,0 +1,4 @@
+## concat
+1、concat函数是在pandas底下的方法，可以将数据根据不同的轴作简单的融合
+    pd.concat(objs, axis=0, join='outer', join_axes=None, ignore_index=False,
+    keys=None, levels=None, names=None, verify_integrity=False)
